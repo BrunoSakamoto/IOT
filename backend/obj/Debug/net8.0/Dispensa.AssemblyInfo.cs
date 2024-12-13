@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dispensa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83d2cfffac3970f45073d317216ac3b7a76c14bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a189c155ccc7bf313e5c604b5aab020083353608")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dispensa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dispensa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
